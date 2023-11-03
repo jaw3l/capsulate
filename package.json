@@ -6,7 +6,7 @@
   "author": {
     "name": "jaw3l"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "SEE LICENSE IN LICENSE",
   "pricing": "Free",
   "keywords": [
@@ -29,6 +29,13 @@
       {
         "command": "capsulate.capsulateInBackticks",
         "title": "Capsulate: Selected Text in Backticks"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "capsulate.capsulateInBackticks",
+        "key": "ctrl+shift+alt+x",
+        "mac": "cmd+shift+alt+x"
       }
     ]
   },
