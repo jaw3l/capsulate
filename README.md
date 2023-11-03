@@ -10,6 +10,10 @@ Shortcut can be set in the keyboard shortcuts menu (`ctrl+k + ctrl+s`). The comm
 
 More detail can be found in the [CHANGELOG.md](CHANGELOG.md) file.
 
+### 1.0.1
+
+Added tags to the extension.
+
 ### 1.0.0
 
 Initial release of Capsulate
