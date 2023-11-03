@@ -6,11 +6,13 @@
   "author": {
     "name": "jaw3l"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "SEE LICENSE IN LICENSE",
+  "pricing": "Free",
   "keywords": [
     "backticks",
-    "capsulate"
+    "capsulate",
+    "markdown"
   ],
   "icon": "images/icon.png",
   "engines": {
